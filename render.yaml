@@ -6,17 +6,17 @@ services:
     buildCommand: "pip install -r requirements.txt"
     startCommand: "python main.py"
     envVars:
-      - key: API_HASH
+      - key: 39ac717c9b38891c6a4351fe8ea376f2
         sync: false
-      - key: API_ID
+      - key: 14579176
         sync: false
-      - key: ASSISTANT_SESSION
+      - key: BQDedegAetPkVP43Gs6nKRqUrJCbBWedBL33udqxzUYpki9wWmfnnkw-41dFRlKnzeV28yGtdl33mVJHQNQLfKDVqT-GKoZm3rlXQbw0v_s12nfC64AmqKsvjERaBtsCut-AcAMImDhDYZcap4Li8SULlY30AKlM3_9NpM5l6ElHx9aCxOGaETTrykGOArRsT-yFZ6idpgWowQeWkwU1V82jZ0IPstGlCYHXWOCAPV5E6dsuec7vTCr65eSU8SmXpYQaIgRf15RGaQ1VEl-jL9tP7PTc45g0DSJL3EATUXNYadmbGldbO5ZMtYupAYgMgU7sb2XWAROKbAF1cBkLUtdkwEUoewAAAAHCd4ygAA
         sync: false
-      - key: BOT_TOKEN
+      - key: 7779542292:AAGDmCfnTpuiWujqUPQKjapuJajupGdiGzE
         sync: false
-      - key: OWNER_ID
+      - key: 1477612810
         sync: false
-      - key: MongoDB_url
+      - key: mongodb+srv://mahavirkumar577577_db_user:47ROgNUOne6cxXT@cluster0.off6pha.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
         sync: false
 
 
