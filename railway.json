@@ -1,12 +1,12 @@
 {
   "build": {
     "env": {
-      "API_HASH": "",
-      "API_ID": "",
-      "ASSISTANT_SESSION": "",
-      "BOT_TOKEN": "",
-      "OWNER_ID": "",
-      "MongoDB_url": ""
+      "API_HASH": "39ac717c9b38891c6a4351fe8ea376f2",
+      "API_ID": "14579176",
+      "ASSISTANT_SESSION": "BQDedegAetPkVP43Gs6nKRqUrJCbBWedBL33udqxzUYpki9wWmfnnkw-41dFRlKnzeV28yGtdl33mVJHQNQLfKDVqT-GKoZm3rlXQbw0v_s12nfC64AmqKsvjERaBtsCut-AcAMImDhDYZcap4Li8SULlY30AKlM3_9NpM5l6ElHx9aCxOGaETTrykGOArRsT-yFZ6idpgWowQeWkwU1V82jZ0IPstGlCYHXWOCAPV5E6dsuec7vTCr65eSU8SmXpYQaIgRf15RGaQ1VEl-jL9tP7PTc45g0DSJL3EATUXNYadmbGldbO5ZMtYupAYgMgU7sb2XWAROKbAF1cBkLUtdkwEUoewAAAAHCd4ygAA",
+      "BOT_TOKEN": "7533599560:AAEQt8PFmECEvlYr4ZpCyeG4Tcew1zfrreo",
+      "OWNER_ID": "1477612810",
+      "MongoDB_url": "mongodb+srv://mahavirkumar577577_db_user:47ROgNUOne6cxXT@cluster0.off6pha.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     }
   },
   "deploy": {
